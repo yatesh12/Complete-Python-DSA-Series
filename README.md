@@ -37,7 +37,7 @@ The repository includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Complete-Python-DSA-Series.git
+   git clone https://github.com/yatesh12/Complete-Python-DSA-Series.git
    ```
    
 2. Navigate to the project directory:
@@ -138,8 +138,8 @@ For any queries or suggestions, feel free to raise an issue or contact us direct
 
 ## 📧 Contact
 
-- **Email:** your-email@example.com
-- **GitHub:** [your-username](https://github.com/your-username)
+- **Email:** yeteshahire@gmail.com
+- **GitHub:** [yatesh12](https://github.com/yatesh12/)
 
 ---
 
